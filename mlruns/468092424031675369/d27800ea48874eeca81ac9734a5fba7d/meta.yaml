@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/RoseKamau/Downloads/oil-pipeline-anomaly-detection/mlruns/468092424031675369/d27800ea48874eeca81ac9734a5fba7d/artifacts
+end_time: 1776153013464
+entry_point_name: ''
+experiment_id: '468092424031675369'
+lifecycle_stage: active
+run_id: d27800ea48874eeca81ac9734a5fba7d
+run_name: isolation-forest-v1
+run_uuid: d27800ea48874eeca81ac9734a5fba7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776152997793
+status: 3
+tags: []
+user_id: RoseKamau
